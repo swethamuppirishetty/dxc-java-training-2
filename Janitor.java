@@ -30,19 +30,19 @@
         
     public final void setBaseHours(int hours) 
     {
-        baseHours = hours;
+        this.baseHours = hours;
     }
     public final void setBaseSalary(double salary) 
     {
-        baseSalary = salary;
+        this.baseSalary = salary;
     }
     public final void setBaseVacationDays(int days) 
     {
-        baseVacationDays = days;
+        this.baseVacationDays = days;
     }
     public final void setBaseVacationForm(String form) 
     {
-        baseVacationForm = form;
+        this.baseVacationForm = form;
     }
 }
     public class Janitor extends Employee {
