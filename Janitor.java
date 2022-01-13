@@ -69,7 +69,6 @@
             double b=janitor.getSalary();
             int c=janitor.getVacationDays();
             String S=janitor.getVacationForm();
-            janitor.clean();
             System.out.println(a);
             System.out.println(b);
             System.out.println(c);
